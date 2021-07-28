@@ -1,0 +1,27 @@
+<h1 class='quote'>
+  <span>You’re a ghost driving a meat-coated skeleton made from stardust.</span>
+  <span>... what do you have to be scared of?</span>
+</h1>
+
+<section class='info'>
+  <dl>
+    <dt>quote by</dt>
+    <dd>
+      <a href='https://twitter.com/Porkbeard/status/296920453442842625'>@porkbeard</a>
+    </dd>
+    <dt>designed by</dt>
+    <dd>
+      <a href='https://twitter.com/ltackett'>@ltackett</a>
+    </dd>
+  </dl>
+  <p>
+    Need a UI / UX engineer?
+    <a href='http://resume.lorintackett.com' target="_blank">Get in touch.</a>
+  </p>
+</section>
+
+<div class='clouds'>
+  <div class='clouds-1'></div>
+  <div class='clouds-2'></div>
+  <div class='clouds-3'></div>
+</div>
